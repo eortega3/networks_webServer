@@ -1,0 +1,17 @@
+group1
+
+Project Grade: PASS :)
+
+File Integrity Checks: (Every file should say OK)
+	index.html: OK
+	styled.html: OK
+	monorail.jpg: OK
+	pic.html: OK
+	tux.png: OK
+	usd-logo.gif: OK
+	test/dir/endtoend.pdf: OK
+	test/dir/index.html: OK
+	test/dir/testpage.html: OK
+
+Commenting / Style: 
+	Nice job with commenting!
